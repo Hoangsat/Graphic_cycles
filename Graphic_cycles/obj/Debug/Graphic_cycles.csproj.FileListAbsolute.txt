@@ -1,0 +1,11 @@
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\bin\Debug\Graphic_cycles.exe.config
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\bin\Debug\Graphic_cycles.exe
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\bin\Debug\Graphic_cycles.pdb
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.csproj.AssemblyReference.cache
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.Form1.resources
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.Properties.Resources.resources
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.csproj.GenerateResource.cache
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.csproj.CoreCompileInputs.cache
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.exe
+C:\Users\hoang\OneDrive\Документы\Project\Graphic_cycles\Graphic_cycles\obj\Debug\Graphic_cycles.pdb
