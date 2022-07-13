@@ -90,5 +90,42 @@ namespace Graphic_cycles
             }
             RefreshPicture();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            for (int a = 0; a <= 300; a += 30)
+            {
+                g.DrawLine(pen, 0, a, a, 0);
+                sleep1();
+            }
+            
+            RefreshPicture();
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            for (int a = 0; a <= 300; a += 30)
+            {
+                g.DrawLine(pen, a, 300, 300, a);
+                sleep1();
+            }
+            RefreshPicture();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+            for (int a = 0; a <= 300; a += 30)
+            {
+                g.DrawLine(pen, a, 300, 300, a);
+                sleep1();
+            }
+            for (int a = 0; a <= 300; a += 30)
+            {
+                g.DrawLine(pen, 0, a, a, 0);
+                sleep1();
+            }
+            RefreshPicture();
+        }
     }
 }
